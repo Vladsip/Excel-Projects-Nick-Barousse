@@ -1,7 +1,7 @@
 # My Excel Data Analytics Portfolio
 
 Welcome!  
-This repository contains all the Excel files I created while learning and practicing data analytics. Each project focuses on solving a specific problem and demonstrates key Excel skills for analyzing and visualizing data.
+This repository contains all the Excel files I created while learning and practising data analytics. Each project focuses on solving a specific problem and demonstrates key Excel skills for analysing and visualising data.
 
 ## 1. Salary Dashboard
 An interactive Excel dashboard designed to help job seekers explore salary ranges for different roles and verify whether they are being fairly compensated.  
