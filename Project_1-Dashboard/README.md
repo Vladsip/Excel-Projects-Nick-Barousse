@@ -1,2 +1,0 @@
-# Excel Salary Dashboard
-
