@@ -15,7 +15,7 @@ An exploratory analysis of job market data to identify the most valuable skills,
 
 ![2_Project Analysis chart 1](Project_2-Analysis/images/image-1.png)
 
-![2_Project Analysis chart 3](./Project_2-Analysis\images\image-2.png)
+![2_Project Analysis chart 3](Project_2-Analysis/images/image-2.png)
 ---
 
 ### About
