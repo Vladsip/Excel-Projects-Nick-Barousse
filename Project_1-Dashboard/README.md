@@ -30,4 +30,4 @@ The dataset used for this project contains real-world data science job informati
 
  ### Data Science Job Salaries - Bar Chart
 
- ![Salaries](images\Salaries_US.PNG)
+ ![Salaries](images/Salaries_US.PNG)
