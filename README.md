@@ -7,7 +7,7 @@ This repository contains all the Excel files I created while learning and practi
 An interactive Excel dashboard designed to help job seekers explore salary ranges for different roles and verify whether they are being fairly compensated.  
 [Check out my work here](Project_1-Dashboard)
 
-![Salary Dashboard](Project_1-Dashboard/images/dashboard.PNG)
+![Salary Dashboard](Project_1-Dashboard/images/dashboard.gif)
 
 ## 2. Salary Analysis
 An exploratory analysis of job market data to identify the most valuable skills, optimal career paths, and strategies to increase earning potential.  
