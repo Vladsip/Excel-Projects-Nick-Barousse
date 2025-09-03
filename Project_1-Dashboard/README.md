@@ -28,6 +28,10 @@ The dataset used for this project contains real-world data science job informati
 
  - ### Charts
 
- ### Data Science Job Salaries - Bar Chart
+ #### Data Science Job Salaries - Bar Chart
 
  ![Salaries](images/Salaries_US.PNG)
+ 
+ #### Country Median Salaries - Map Chart
+
+ 
