@@ -34,4 +34,4 @@ The dataset used for this project contains real-world data science job informati
  
  #### Country Median Salaries - Map Chart
 
- 
+ ![Map Chart](images/MapChart.gif)
