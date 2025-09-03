@@ -1,2 +1,2 @@
 # Excel Salary Dashboard
-![Salary Dashboard](image.png)
+![Salary Dashboard](Project_1-Dashboard\images\image.png)
