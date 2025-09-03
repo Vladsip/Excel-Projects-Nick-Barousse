@@ -34,4 +34,44 @@ The dataset used for this project contains real-world data science job informati
  
  #### Country Median Salaries - Map Chart
 
- ![Map Chart](images/MapChart.gif)
+ ![Map Chart](images/Map_chart.gif)
+Enables quick grasp of global salary disparities and highlighs high/low salary regions.
+
+ - ### Formulas and Functions
+
+`
+=MEDIAN(
+  IF(
+    (jobs[job_title_short]=A2)*
+    (jobs[job_country]=country)*
+    (ISNUMBER(SEARCH(type, jobs[job_schedule_type])))*
+    (jobs[salary_year_avg]>0),
+    jobs[salary_year_avg]
+  )
+)
+`
+- Multi-Criteria Filtering: Checks job title, country, schedule type, and exclude blank salaries.
+- Arraye Formula: Utilizes `MEDIAN()` function with nested `IF()` statement to analyze an array. 
+- Tailored Insights: Provides specific salary information for job titles, regions, and schedule types.
+- Formula Purpose: This formula popultes the table below, returning the median salary based on job title, country, and type specified. 
+
+#### Background Table
+![table](images/background_table.PNG)
+
+#### Dashboard Implementation
+![Dashboard](images/Dashboard_implementation.PNG)
+
+ - ### Data Validation
+
+### 🔍 Filtered List
+
+- **Enhanced Data Validation**: Implementing the filtered list as a data validation rule under the `Job Title`, `Country`, and `Type` option in the Data tab ensures:
+  - User input is restricted to predefined, validated schedule types
+  - Incorrect or inconsistent entries are prevented
+  - Overall usability of the dashboard is enhanced
+
+![job title](images/job_title.gif)
+
+## Conclusion
+
+I developed this dashboard to highlight salary trends across various data-related job titles. Exploring its features also provides insights into how location and job type impact salaries.
